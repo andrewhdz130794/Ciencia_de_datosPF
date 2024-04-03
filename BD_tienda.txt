@@ -1,0 +1,11 @@
+INSTANCE
+dbtienda
+
+USERNAME
+admin_tienda
+
+pass
+9HMt06J6jBeX
+
+dbname
+tienda
