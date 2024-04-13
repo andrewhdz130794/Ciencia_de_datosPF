@@ -28,8 +28,7 @@ tipo_persona varchar(20),
 nombre_p varchar(100),
 direccion_p varchar(70),
 telefono_p varchar(20),
-email_p varchar(50),
-estado_p bit
+email_p varchar(50)
 );
 
 create table dim_calendar(
